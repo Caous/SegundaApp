@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="PlanoFundo">#009688</color>
+    <color name="FonteCor">#212121</color>
+    <color name="FundoInput">#85ffffff</color>
+    <color name="PlanoFundoRegister">#424242</color>
+    <color name="FundoInputRegister">#9e9e9e</color>
+    <color name="Button">#f50057</color>
+    <color name="PlanoDeFundo">#d46e63</color>
+    <color name="Fontecolor">#90ffffff</color>
+    <color name="Linha">#000</color>
+    <color name="corFundoregistro">#f5a496</color>
+
+</resources>

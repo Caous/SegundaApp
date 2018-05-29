@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SegundaApp</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="notmember">Not a member? Sign up now</string>
+    <string name="fullname">Fullname</string>
+    <string name="emailregister">Email</string>
+    <string name="passwordregister">Password</string>
+    <string name="register">Register</string>
+    <string name="already">Already registred! Login me.</string>
+    <string name="sign">Sign In</string>
+    <string name="useroradresss">User Name/or Email Address</string>
+    <string name="password">Password</string>
+    <string name="create">Create a new account</string>
+    <string name="signbutton">Sign up</string>
+    <string name="download">Download</string>
+    <string name="id">Image ID:</string>
+    <string name="price">Price:</string>
+    <string name="owner">Owner:</string>
+    <string name="description">Description:</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut interdum enim vitae libero</string>
+</resources>

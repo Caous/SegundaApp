@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/PlanoFundo"
+    android:paddingTop="100dp"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp"
+    tools:context="br.senac.sp.l13.segundaapp.LoginActivity">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/alemanha"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/email"
+        android:textColor="@color/FonteCor"
+        android:background="@color/FundoInput"
+        android:padding="5dp"
+        android:layout_marginBottom="10dp"
+        android:inputType="textEmailAddress"
+        android:textSize="20sp"
+
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/password"
+        android:textColor="@color/FonteCor"
+        android:background="@color/FundoInput"
+        android:padding="5dp"
+        android:layout_marginBottom="10dp"
+        android:inputType="textPassword"
+        android:textSize="20sp"
+
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/login"
+        android:textColor="@color/FonteCor"
+        android:layout_marginBottom="10dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/notmember"
+        android:textColor="@color/FonteCor"
+        android:gravity="center"
+        android:textSize="18sp"
+        />
+
+
+
+</LinearLayout>
